@@ -12,17 +12,14 @@ src/**/*.css
 src/**/*.css.map
 .sass-cache
 
-# old docs
-docs_
-
 # check the locale file on README
-check.js
+release.*
 
 # Common IDE files
 nbproject
 .~lock.*
+Gemfile.lock
 package-lock.json
-*.lock
 .buildpath
 .idea
 .project
